@@ -136,7 +136,7 @@ const Contact = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-primary-100 max-w-2xl mx-auto"
           >
-            We're here to help and answer any questions you might have. We look forward to hearing from you.
+            Our team is dedicated to providing personalized assistance, ready to craft the ultimate luxury experience for you.
           </motion.p>
         </div>
       </section>

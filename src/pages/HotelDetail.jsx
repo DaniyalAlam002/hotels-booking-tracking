@@ -162,7 +162,7 @@ const HotelDetail = () => {
                 transition={{ duration: 0.8, delay: 0.6 }}
                 className="bg-white rounded-xl p-6 shadow-lg sticky top-24"
               >
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">Book Your Stay</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-4">Reserve Your Slice of Paradise</h3>
                 <div className="space-y-4 mb-6">
                   <div className="flex justify-between items-center">
                     <span className="text-gray-600">Starting from</span>

@@ -212,7 +212,7 @@ const Home = () => {
               onClick={() => setIsOffersModalOpen(true)}
               className="btn-primary text-lg px-8 py-4"
             >
-              View Special Offers
+              Unlock Special Prices
             </button>
             <Link to="/hotels" className="btn-outline text-lg px-8 py-4 bg-white text-primary-600 border-white hover:bg-gray-100">
               Browse Hotels
@@ -248,7 +248,7 @@ const Home = () => {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl font-bold mb-4">Why Choose Luxury Hotels?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Choose Our World-Class Luxury Hotels?</h2>
             <p className="text-xl text-primary-100 max-w-2xl mx-auto">
               We've been delivering exceptional experiences for over three decades
             </p>
@@ -555,7 +555,7 @@ const Home = () => {
           >
             <h2 className="text-4xl font-bold mb-4">Need Personalized Assistance?</h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Our travel experts are here to help you plan the perfect luxury getaway
+              Our travel experts are ready to turn your dreams into reality, crafting unforgettable adventures tailored just for you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a
