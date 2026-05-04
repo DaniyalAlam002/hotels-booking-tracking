@@ -250,7 +250,7 @@ const Home = () => {
           >
             <h2 className="text-4xl font-bold mb-4">Why Choose Luxury Hotels?</h2>
             <p className="text-xl text-primary-100 max-w-2xl mx-auto">
-              We've been delivering exceptional experiences for over three decades
+              For over three decades, we've crafted exclusive experiences in luxury travel, cementing our status as leaders in the hospitality industry.
             </p>
           </motion.div>
 
