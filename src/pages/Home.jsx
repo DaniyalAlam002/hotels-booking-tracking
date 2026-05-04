@@ -555,7 +555,7 @@ const Home = () => {
           >
             <h2 className="text-4xl font-bold mb-4">Need Personalized Assistance?</h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Our travel experts are here to help you plan the perfect luxury getaway
+              Our travel experts are ready to turn your dreams into reality, crafting unforgettable adventures tailored just for you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a
