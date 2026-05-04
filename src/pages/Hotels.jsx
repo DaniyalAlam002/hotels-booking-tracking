@@ -73,7 +73,7 @@ const Hotels = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-primary-100 max-w-2xl mx-auto"
           >
-            Discover our collection of world-class hotels and resorts, each offering unique experiences and exceptional service
+            Discover our collection of luxury hotels and resorts, each uniquely tailored for solo travelers seeking exceptional service and experiences
           </motion.p>
         </div>
       </section>
