@@ -248,7 +248,7 @@ const Home = () => {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl font-bold mb-4">Why Choose Luxury Hotels?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Choose Our World-Class Luxury Hotels?</h2>
             <p className="text-xl text-primary-100 max-w-2xl mx-auto">
               We've been delivering exceptional experiences for over three decades
             </p>
