@@ -811,7 +811,7 @@ const Booking = () => {
                         : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
-                    Previous
+                    Review Booking Details
                   </button>
 
                   <div className="flex space-x-3">
