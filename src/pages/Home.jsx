@@ -212,7 +212,7 @@ const Home = () => {
               onClick={() => setIsOffersModalOpen(true)}
               className="btn-primary text-lg px-8 py-4"
             >
-              View Special Offers
+              Unlock Special Prices
             </button>
             <Link to="/hotels" className="btn-outline text-lg px-8 py-4 bg-white text-primary-600 border-white hover:bg-gray-100">
               Browse Hotels
