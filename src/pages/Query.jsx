@@ -185,7 +185,7 @@ const Query = () => {
               </div>
               <h3 className="text-2xl font-semibold text-gray-900 mb-4">Chat With Support</h3>
               <p className="text-gray-600 mb-6">
-                Need immediate assistance? Start a live chat with our support team right now.
+                Got a pressing issue? Begin a live chat with our dedicated support team for fast, personalized assistance.
               </p>
               <button
                 onClick={() => setIsChatModalOpen(true)}
